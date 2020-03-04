@@ -1,11 +1,6 @@
 package a;
 
-public class Aaaa {
-
-	public void test() {
-
-	}
-
+public class Bbb {
 	public static void main(String[] args) {
 
 	}
